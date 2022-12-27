@@ -19,5 +19,12 @@ code {
 }
 
 .letter {
-  border: 1px solid red;
+  border: 1px solid black;
+}
+
+.image {
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 300px;
 }
